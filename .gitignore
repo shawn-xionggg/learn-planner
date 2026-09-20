@@ -1,0 +1,12 @@
+.venv/
+.uv-cache/
+__pycache__/
+.auth/
+exports/
+waterloo_auth.json
+tmp*/
+message*.txt
+.env
+.env.*
+!.env.example
+*.pyc
